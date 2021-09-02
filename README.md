@@ -17,3 +17,5 @@ our GAN based model. We have evaluated our model on
 image recognition problems, for 1 shot and 5 shot learning
 setting on Omniglot and Mini Imagenet datasets. Our results show that our proposed model outperforms standard
 MAML in terms of training accuracy
+
+You can find a detailed <a href="https://github.com/Rajeshyd0308/Few_Shot_Image_Classification/blob/main/Rajesh_Final_Report.pdf" target="_blank">report here</a>.
