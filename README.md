@@ -19,3 +19,6 @@ setting on Omniglot and Mini Imagenet datasets. Our results show that our propos
 MAML in terms of training accuracy
 
 You can find a detailed <a href="https://github.com/Rajeshyd0308/Few_Shot_Image_Classification/blob/main/Rajesh_Final_Report.pdf" target="_blank">report here</a>.
+
+# Some of the results:
+![alt text](https://github.com/Rajeshyd0308/Few_Shot_Image_Classification/blob/main/Images/generated_images.PNG)
